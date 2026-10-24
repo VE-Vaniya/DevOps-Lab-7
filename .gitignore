@@ -1,0 +1,9 @@
+# Never commit keys
+*.pem
+*.ppk
+.aws/
+credentials
+
+# Study notes and the brief, not part of the submission
+GUIDE.md
+*.docx
